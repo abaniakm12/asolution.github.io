@@ -1,2 +1,2 @@
 # asolution.github.io
-My Website
+theme:minima
